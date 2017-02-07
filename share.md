@@ -46,13 +46,11 @@ theme: moon
 ----
 推荐
 ```html
-<link rel="stylesheet" href="//www.beibei.com/main.css"/>
 
 <script></script>
 ```
 不推荐
 ```html
-<link rel="stylesheet" href="//www.beibei.com/main.css" type="text/css"/>
 
 <script type="text/javascript"></script>
 ```
